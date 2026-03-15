@@ -1,0 +1,9 @@
+*.bat
+*.sh
+*.ps1
+*.vbs
+.env
+__pycache__/
+*.pyc
+finai_automation.log
+autostart.vbs
