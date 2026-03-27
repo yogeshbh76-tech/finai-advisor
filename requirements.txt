@@ -2,7 +2,7 @@ fastapi
 uvicorn
 yfinance
 requests
-pandas
+pandas==2.1.4
 pytz
 anthropic
 python-multipart
